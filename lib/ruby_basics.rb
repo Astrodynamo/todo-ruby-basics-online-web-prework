@@ -3,19 +3,19 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  
+  name = "#{value}"
 end
 
-def argue
-  
+def argue(argument)
+  return argument
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
-def return_a_value
-
+def return_a_value(phrase)
+  return phrase
 end
 
 def last_evaluated_value
